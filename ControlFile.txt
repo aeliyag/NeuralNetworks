@@ -1,0 +1,248 @@
+/Users/24aeliyag/Desktop/NeuralNetworks/weightsLowerError.txt.zip
+False
+-1.5
+1.5
+
+4
+
+10000
+50
+10
+5
+
+5
+0.7
+100000
+0.001
+1
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1e.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2g.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3g.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4h.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5f.txt 
+
+
+
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1b.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1d.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1f.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1g.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1h.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2b.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2c.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2d.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2e.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2f.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3a.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3c.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3d.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3e.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3f.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4b.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4c.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4d.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4e.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4g.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5a.txt 0 0 0 0 1
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5b.txt 0 0 0 0 1 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5c.txt 0 0 0 0 1 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5d.txt 0 0 0 0 1 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5e.txt 0 0 0 0 1 
+
+
+
+
+
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1e.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2g.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3g.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4h.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5f.txt 
+
+
+
+
+
+
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1e.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2g.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3g.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4h.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5f.txt 
+
+
+
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1b.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1d.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1f.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1g.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1h.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2b.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2c.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2d.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2e.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2f.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3a.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3c.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3d.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3e.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3f.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4b.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4c.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4d.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4e.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4g.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5a.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5b.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5c.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5d.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5e.txt 
+
+
+
+
+
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1b.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1d.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1f.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1g.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1h.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1e.txt 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2b.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2c.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2d.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2e.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2f.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2g.txt 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3a.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3c.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3d.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3e.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3f.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3g.txt 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4b.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4c.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4d.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4e.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4g.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4h.txt 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5a.txt 0 0 0 0 1
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5b.txt 0 0 0 0 1 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5c.txt 0 0 0 0 1 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5d.txt 0 0 0 0 1 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5e.txt 0 0 0 0 1 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5f.txt 0 0 0 0 1 
+
+
+// All training and running cases
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2b.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2c.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2d.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2e.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2f.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3a.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3c.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3d.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3e.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3f.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4b.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4c.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4d.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4e.txt
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4g.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5a.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5b.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5c.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5d.txt 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5e.txt 
+
+
+
+
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1b.bin 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1d.bin 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1f.bin 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1g.bin 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1h.bin 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2b.bin 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2c.bin 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2d.bin 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2e.bin 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2f.bin 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3a.bin 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3c.bin 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3d.bin 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3e.bin 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3f.bin 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4b.bin 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4c.bin 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4d.bin 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4e.bin 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4g.bin 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5a.bin 0 0 0 0 1
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5b.bin 0 0 0 0 1 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5c.bin 0 0 0 0 1 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5d.bin 0 0 0 0 1 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5e.bin 0 0 0 0 1 
+
+
+
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1b.bin 1 0 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2b.bin 0 1 0 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3c.bin 0 0 1 0 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4b.bin 0 0 0 1 0
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5a.bin 0 0 0 0 1
+
+
+
+
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1b.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1d.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1f.bin
+/Users/24aeliyag/Desktop/NeuralNetworks/src/1g.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2b.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2c.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2d.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/2e.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3a.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3c.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3d.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/3e.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4b.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4c.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4d.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/4e.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5a.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5b.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5c.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/src/5d.bin 
+
+
+
+
+/Users/24aeliyag/Desktop/NeuralNetworks/first.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/second.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/third.bin 
+/Users/24aeliyag/Desktop/NeuralNetworks/fourth.bin
+
+
+0 0 
+0 1
+1 0
+1 1
+
+
+
+link: /Users/24aeliyag/Desktop/NeuralNetworks/ControlFile.txt
+
+
+
+
+0 0 0 0 0
+0 1 0 1 1
+1 0 0 1 1
+1 1 1 1 0
+
+
+
+
